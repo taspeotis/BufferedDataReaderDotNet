@@ -1,15 +1,12 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-
-[assembly: InternalsVisibleTo("BufferedDataReaderDotNet.UnitTests")]
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("BufferedDataReaderDotNet")]
-[assembly: AssemblyProduct("BufferedDataReaderDotNet")]
+[assembly: AssemblyTitle("BufferedDataReaderDotNet.IntegrationTests")]
+[assembly: AssemblyProduct("BufferedDataReaderDotNet.IntegrationTests")]
 [assembly: AssemblyCopyright("Copyright © Todd Aspeotis 2016")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
@@ -20,7 +17,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("1b51cbb1-d48c-4a4b-804c-44113849d153")]
+[assembly: Guid("07a7698f-3f88-4ecc-b449-5487e6e8f28f")]
 
 // Version information for an assembly consists of the following four values:
 //
